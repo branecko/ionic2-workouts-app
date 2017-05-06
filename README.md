@@ -21,4 +21,4 @@ Sample Android app created using ionic 2 and mLab database
 
 # Notes
 
-- file structure created - [see commit]()
+- file structure created - [see commit](https://github.com/branecko/ionic2-workouts-app/commit/2e51d45562214e197a1f4495b6e5086476c50d4c)
