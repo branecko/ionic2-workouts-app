@@ -18,3 +18,7 @@ Sample Android app created using ionic 2 and mLab database
 
 - install [nodeJS](https://nodejs.org/en), [Android Studio with android SDK](https://developer.android.com/studio)
 - install ionic and cordova `npm install -g ionic cordova`
+
+# Notes
+
+- file structure created - [see commit]()
