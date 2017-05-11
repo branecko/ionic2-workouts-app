@@ -23,4 +23,4 @@ Sample Android app created using ionic 2 and mLab database
 
 - file structure created - [see commit](https://github.com/branecko/ionic2-workouts-app/commit/2e51d45562214e197a1f4495b6e5086476c50d4c)
 - get workouts from mlab - [see commit](https://github.com/branecko/ionic2-workouts-app/commit/5c80ec0879cd05f510df95768ecf76fff1e3f2e3)
-- show detail page (using navParams) - [see commit]()
+- show detail page (using navParams) - [see commit](https://github.com/branecko/ionic2-workouts-app/commit/ac1945110f932a7254eece9ae1aae245d24087f6)
